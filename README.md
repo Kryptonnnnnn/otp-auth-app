@@ -21,7 +21,6 @@ This project demonstrates secure OTP login flow, attempt limiting, temporary blo
 - JSON Web Token (JWT)
 - In-memory OTP store (Map)
 
----
 
 ## 🏗 Architecture Overview
 
@@ -106,7 +105,7 @@ otp-auth-app/
 🛠 How to Run Locally
 
 1️⃣ Clone Repository
-git clone <>
+git clone <https://github.com/Kryptonnnnnn/otp-auth-app>
 cd otp-auth-app
 
 2️⃣ Run Backend
@@ -168,4 +167,5 @@ Backend-driven security
 Route protection
 UX improvements (countdown, masking, loading state)
 Clear documentation
+
 
