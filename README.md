@@ -37,7 +37,6 @@ This project demonstrates secure OTP login flow, attempt limiting, temporary blo
 
 ## 🔄 Authentication Flow
 
-```mermaid
 flowchart TD
 
 A[User enters Email/Phone] --> B[POST /auth/request-otp]
@@ -167,5 +166,6 @@ Backend-driven security
 Route protection
 UX improvements (countdown, masking, loading state)
 Clear documentation
+
 
 
